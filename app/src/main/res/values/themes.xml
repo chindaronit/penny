@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Penny" parent="Theme.AppCompat.NoActionBar" />
+    <style name="Theme.Penny.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="postSplashScreenTheme">@style/Theme.Penny</item>
+    </style>
+</resources>

@@ -2,3 +2,8 @@
 /.gradle/
 /app/build/
 /app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+.idea/vcs.xml
+app/google-services.json
+app/src/main/java/com/penny/env/
+app/src/main/res/values/strings.xml
+key.jks
